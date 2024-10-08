@@ -1,6 +1,6 @@
 # React-Portfolio 
 
-Live Preview at : https://myself.now.sh/
+Live Preview at : 
 
 ### Hi there 👋 I am Shalu verma, a full stack web and app developer. I love to build new things that excites me a lot.
 
